@@ -1,0 +1,3 @@
+C:/Users/130861/Desktop/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise2-Desktop-Debug/CMakeFiles/MeanValue.dir
+C:/Users/130861/Desktop/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise2-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/130861/Desktop/PCS2024_Exercises/Esercitazione_1_IO/build-Exercise2-Desktop-Debug/CMakeFiles/rebuild_cache.dir
