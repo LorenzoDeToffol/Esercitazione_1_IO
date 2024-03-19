@@ -4,7 +4,7 @@
 #include<fstream>
 #include<sstream>
 #include <string>
-
+//questo è solo un test
 
 double trasformazione(double value) {
     return value * (3.0 / 4.0) - 7.0 / 4.0;
